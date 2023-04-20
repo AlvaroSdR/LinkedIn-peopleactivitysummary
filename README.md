@@ -22,6 +22,9 @@ If no recent activity is found on the LinkedIn profile, a warning message will b
 Note: Please be mindful of LinkedIn's terms of service and usage guidelines when web scraping their website.
 Note: Please be aware that you need LinkedIn Develper API keys for the correct usage of the application.
 
+## Disclaimer
+This script is provided as is and without any warranty. Use it at your own risk.
+
 ## Contributing
 If you would like to contribute to this project, please contact in advance. Any contributions are welcome!
 
