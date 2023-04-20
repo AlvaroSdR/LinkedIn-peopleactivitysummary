@@ -20,6 +20,7 @@ Click the "Generate Summary" button to fetch the recent activity from the profil
 The summary of the recent activity will be displayed in the app's interface.
 If no recent activity is found on the LinkedIn profile, a warning message will be displayed.
 Note: Please be mindful of LinkedIn's terms of service and usage guidelines when web scraping their website.
+Note: Please be aware that you need LinkedIn Develper API keys for the correct usage of the application.
 
 ## Contributing
 If you would like to contribute to this project, please contact in advance. Any contributions are welcome!
